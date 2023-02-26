@@ -1,2 +1,3 @@
 # CPAN134
-My portfolio project
+Web Design course assignments
+
